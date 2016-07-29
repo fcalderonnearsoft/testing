@@ -7,6 +7,6 @@ public class FahrenheitCelciusConverter {
     }
 
     public static int toFahrenheit(int celcius) {
-        return celcius * 9 / 5 + 32;
+        return (celcius * 9) / 5 + 32;
     }
 }

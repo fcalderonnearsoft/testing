@@ -1,8 +1,8 @@
-import junit.framework.TestCase;
+import static org.junit.Assert.*;
 
 /**
- * Created by MacBook on 24/07/16.
+ * Created by MacBook on 29/07/16.
  */
-public class FahrenheitCelciusConverterTest extends TestCase {
+public class FahrenheitCelciusConverterTest {
 
 }

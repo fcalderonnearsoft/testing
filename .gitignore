@@ -1,0 +1,13 @@
+.gitignore
+.gitignore.swp
+testing.iml
+.DS_Store
+.idea
+*.iml
+*.ipr
+*.iws
+*.ids
+target
+*/target
+*.class
+.idea/*

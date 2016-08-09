@@ -3,5 +3,6 @@ package Factory_Pattern;
 /**
  * Created by MacBook on 05/08/16.
  */
-public class Pokemon {
+public interface Pokemon {
+    void get();
 }
